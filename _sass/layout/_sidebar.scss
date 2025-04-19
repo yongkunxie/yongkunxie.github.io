@@ -13,6 +13,25 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  /* ▼▼▼ 新增以下代码 ▼▼▼ */
+  background: url('/assets/img/sidebar-bg.jpg') no-repeat center center;  // 图片路径根据实际位置调整
+  background-size: cover;
+  position: relative;
+  z-index: 0;
+
+  /* 半透明遮罩（确保文字可读） */
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);  // 调节透明度：0.7为70%白色遮罩
+    z-index: -1;  // 置于背景图上方、内容下方
+  }
+  /* ▲▲▲ 新增结束 ▲▲▲ */
+   
   @media (orientation: portrait) {
     margin-top: 1em;
   }
