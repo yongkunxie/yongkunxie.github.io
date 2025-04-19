@@ -102,6 +102,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
+  display: block;                    /* 改为块级元素 */
+  margin: 0 auto;                    /* 水平居中 */
+  text-align: center;                /* 内部内容居中 */
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
@@ -129,6 +132,9 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: center;                /* 内部文字居中 */
+  padding-left: 0;                   /* 移除原有左间距 */
+  margin-top: 20px;                  /* 添加顶部间距 */
 
   @include breakpoint($large) {
     display: block;
