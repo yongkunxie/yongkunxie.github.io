@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am [Your Name], [Position] at [Institution], specializing in [Research Area, e.g., climate modeling and machine learning applications].  
+I am Yongkun Xie, a Research Scientist at Lanzhou University, specializing in climate dynamics and climate change. My research encompasses various aspects, such as the climate - modifying effects of the Tibetan Plateau, the causes and consequences of Arctic warming, decadal climate variability, regional warming patterns, and climate extremes.
+
 
 This site features my:  
+📄 [CV](/CV)   
 📚 [Publications](/publications)  
-🔬 [Research Projects](/projects)  
-🌱 [Latest Updates](/news)  
+🎓 [Teaching](/teaching)  
+🗣️ [Talks](/talks)  
+👥 [Group](/group)  
 
 I welcome collaborations and discussions.  
-📧 Contact: your.email@example.com  
+📧 Contact: xieyk@lzu.edu.cn
 
 
