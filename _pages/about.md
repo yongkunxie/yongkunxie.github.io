@@ -11,11 +11,11 @@ I am Yongkun Xie, a Research Scientist at Lanzhou University, specializing in cl
 
 
 This site features my:  
-📄 [CV](/CV)   
-📚 [Publications](/publications)  
-🎓 [Teaching](/teaching)  
-🗣️ [Talks](/talks)  
-👥 [Group](/group)  
+📄 [CV](/cv/)  
+📚 [Publications](/publications/)  
+🎓 [Teaching](/teaching/)  
+🗣️ [Talks](/talks/)  
+👥 [Group](/group/)  
 
 I welcome collaborations and discussions.  
 📧 Contact: xieyk@lzu.edu.cn
