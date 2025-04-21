@@ -15,7 +15,7 @@ This site features my:
 📚 [Publications](/publications/)  
 🎓 [Teaching](/teaching/)  
 🗣️ [Talks](/talks/)  
-👥 [Group](/group/)  
+👥 [Group](/portfolio/)  
 
 I welcome collaborations and discussions.  
 📧 Contact: xieyk@lzu.edu.cn
