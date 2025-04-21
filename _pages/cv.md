@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Climatology, Lanzhou University, 9/2012-6/2017
+* Visiting Student, Princeton University, 9/2015-8/2016
+* B.S. in Atmospheric Science, Lanzhou University, 2012
 
 Work experience
 ======
@@ -32,14 +33,11 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Honors
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Springer Nature Trusted Reviewer (2025)
+* IOP Trusted Reviewer (2024)
+* Outstanding Dissertation in Gansu Province (2017)
 
 Publications
 ======
