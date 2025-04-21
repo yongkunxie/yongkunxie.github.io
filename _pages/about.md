@@ -18,7 +18,7 @@ Specializing in **climate dynamics** and **climate change**, with particular exp
   Publications: [1], [2], [3]
 - **Decadal Climate Variability**  
   Publications: [1], [2], [3]
-- **Regional climate change Patterns**  
+- **Regional Climate Change Patterns**  
   Publications: [1], [2], [3]
 - **Climate Extremes**  
   Publications: [1], [2], [3]
