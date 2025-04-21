@@ -7,12 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am ​​Yongkun Xie​​, a ​​Research Scientist​​ at ​​Lanzhou University​​, specializing in ​​climate dynamics and climate change​​ as follows:
-- Tibetan Plateau Climate Effects (Publications: [1], [2], [3])
-- Arctic Warming: Causes & Impacts​​ (Publications: [1], [2], [3])  
-- Decadal Climate Variability​​ (Publications: [1], [2], [3])  
-- Regional Warming Patterns​​ (Publications: [1], [2], [3])  
-​​- Climate Extremes​​ (Publications: [1], [2], [3])  
+## Yongkun Xie  
+*Research Scientist | Lanzhou University*  
+
+Specializing in **climate dynamics** and **climate change**, with particular expertise in:
+
+- **Tibetan Plateau Climate Effects**  
+  Publications: [1], [2], [3]
+- **Arctic Warming: Causes & Impacts**  
+  Publications: [1], [2], [3]
+- **Decadal Climate Variability**  
+  Publications: [1], [2], [3]
+- **Regional climate change Patterns**  
+  Publications: [1], [2], [3]
+- **Climate Extremes**  
+  Publications: [1], [2], [3]
 
 
 This site features my:  
