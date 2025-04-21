@@ -47,7 +47,24 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Current Students Supervised
+======
+* Master's candidate:
+  * Jiaqin Mi (LZU, advisor)
+  * Zhongrui Bao (LZU, advisor)
+  * Min Zhao (LZU, advisor)
+  * Zifan Su (LZU, advisor)
+* Undergraduate student:
+  * Wenze Shi (LZU, advisor)
+  * Liangcai Xing (LZU, advisor)
+
+Past Students Supervised
+======
+* Master's graduate:
+  * Nan Lei (LZU, graduated in 2024, Doctoral candidate in LZU)
+  * Hanbin Nie (LZU, graduated in 2024, Commercial Aircraft Corporation of China, Ltd.)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer for Nature Communications, Nature Water, Journal of Climate, Communications Earth & Environment, Environmental Research Letters, Journal of Geophysical Research: Atmosphere, Atmospheric Research, International Journal of Climatology, Advances in Climate Change Research, Science China Earth Sciences, Environmental Research Communications, Meteorology, Discover Applied Sciences  
