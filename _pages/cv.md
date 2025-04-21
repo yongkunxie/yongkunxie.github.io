@@ -65,6 +65,12 @@ Past Students Supervised
   * Nan Lei (LZU, graduated in 2024, Doctoral candidate in LZU)
   * Hanbin Nie (LZU, graduated in 2024, Commercial Aircraft Corporation of China, Ltd.)
 
+Projects
+======
+* 国家自然科学基金委员会, 面上项目, 41975109, 中国东南部春季云辐射效应及其对区域环流季节内演变的影响, 2020-01-01 至 2023-12-31, 63万元, 参与.
+* 国家自然科学基金委员会, 重点项目, 42030602, 地球三极气候变化耦合联动的途径和过程, 2021-01-01 至 2025-12-31, 300万元, 参与.
+* 科学技术部, 国家重点研发计划青年科学家项目, 2023YFF0806700, 热带海气系统和青藏高原对东亚夏季极端降水事件的协同影响及机理, 2024-01 至 2028-12, 300万元, 参与. 
+
 Service and leadership
 ======
 * Journal Reviewer for Nature Communications, Nature Water, Journal of Climate, Communications Earth & Environment, Environmental Research Letters, Journal of Geophysical Research: Atmosphere, Atmospheric Research, International Journal of Climatology, Advances in Climate Change Research, Science China Earth Sciences, Environmental Research Communications, Meteorology, Discover Applied Sciences  
