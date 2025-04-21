@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Yongkun Xie  
-*Research Scientist | Lanzhou University*  
+*Research Scientist* | Lanzhou University
 
 Specializing in **climate dynamics** and **climate change**, with particular expertise in:
 
