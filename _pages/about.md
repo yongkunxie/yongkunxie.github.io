@@ -11,7 +11,7 @@ I am Yongkun Xie, a Research Scientist at Lanzhou University, specializing in cl
 
 
 This site features my:  
-📄 [CV](/assets/files/cv.pdf) (Download PDF) 
+📄 [CV](/assets/files/cv.pdf) (Download PDF)  
 📚 [Publications](/publications/)  
 🎓 [Teaching](/teaching/)  
 🗣️ [Talks](/talks/)  
