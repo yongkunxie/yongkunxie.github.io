@@ -14,7 +14,7 @@ Specializing in **climate dynamics** and **climate change**, with particular exp
 
 - **Tibetan Plateau Climate Effects**  
   Publications: [1], [2], [3]
-- **Regional Climate Change Patterns**  
+- **Climate Change Patterns**  
   Publications: [1], [2], [3]
 - **Arctic Warming: Causes & Impacts**  
   Publications: [1], [2], [3]
