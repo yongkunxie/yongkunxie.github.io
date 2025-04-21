@@ -14,24 +14,15 @@ Education
 ======
 * Ph.D in Climatology, Lanzhou University, 9/2012-6/2017
 * Visiting Student, Princeton University, 9/2015-8/2016
-* B.S. in Atmospheric Science, Lanzhou University, 2012
+* B.S. in Atmospheric Science, Lanzhou University, 8/2008-6/2012
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 9/2020-Present: Research Scientist
+  * Lanzhou University, Collaborative Innovation Center for Western Ecological Safety
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 7/2017-9/2020: Postdoctoral Researcher
+  * Chinese Academy of Sciences, Institute of Atmospheric Physics
   
 Honors
 ======
