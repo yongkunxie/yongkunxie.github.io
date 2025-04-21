@@ -23,11 +23,11 @@ main:
   - title: "Group"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Resource"
     url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
