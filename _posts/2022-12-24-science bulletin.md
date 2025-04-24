@@ -1,7 +1,7 @@
 ---
 title: 'CESM experiments for "Oceanic repeaters boost the global climatic impact of the Tibetan Plateau'
 date: 2022-12-24
-permalink: /posts/2022/12/blog-post-1/
+permalink: /posts/2022/12/science bulletin/
 
 ---
 
