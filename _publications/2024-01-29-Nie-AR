@@ -1,0 +1,19 @@
+---
+title: "Future trends in the vertical structure of Arctic warming and moistening in different emission scenarios"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-01-29-Nie-AR
+excerpt: ''
+date: 2024-01-29
+venue: 'Atmospheric Research'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://raw.githubusercontent.com/yongkunxie/yongkunxie.github.io/main/files/2024-01-29-Nie-AR.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Nie H, Xie Y, Zhao M, et al. (2024) Future trends in the vertical structure of Arctic warming and moistening in different emission scenarios. Atmospheric Research, 301: 107271.'
+journal_link_doi: 'https://doi.org/10.1016/j.atmosres.2024.107271'
+---
+<!-- 在页面内容中添加链接显示 -->
+<h2>Links</h2>
+<ul>
+    <li><a href="{{ page.journal_link_doi }}">Journal Link</a></li>
+</ul>
