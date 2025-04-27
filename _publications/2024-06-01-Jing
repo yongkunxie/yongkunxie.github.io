@@ -1,0 +1,19 @@
+---
+title: "沙尘气溶胶加热对深积云对流系统的影响"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-06-01-Jing
+excerpt: ''
+date: 2024-06-01
+venue: '兰州大学学报（自然科学版）'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://raw.githubusercontent.com/yongkunxie/yongkunxie.github.io/main/files/2024-06-01-Jing.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: '景治坤, 黄建平, 刘玉芝, 谢永坤. (2024). 沙尘气溶胶加热对深积云对流系统的影响. 兰州大学学报（自然科学版）, 60(3), 296−303.'
+journal_link_doi: 'https://www.ldzk.cbpt.cnki.net/WKE/WebPublication/paperDigest.aspx?paperID=92836315-2dcf-4c0f-aee1-5967ddb10a45'
+---
+<!-- 在页面内容中添加链接显示 -->
+<h2>Links</h2>
+<ul>
+    <li><a href="{{ page.journal_link_doi }}">Journal Link</a></li>
+</ul>
