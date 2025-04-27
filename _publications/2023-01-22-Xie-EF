@@ -1,0 +1,19 @@
+---
+title: "Potential vorticity dynamics explain how extratropical oceans and the Arctic modulate wintertime land-temperature variations"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-01-22-Xie-EF
+excerpt: ''
+date: 2023-01-22
+venue: 'Earth's Future'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://raw.githubusercontent.com/yongkunxie/yongkunxie.github.io/main/files/2023-01-22-Xie-EF.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Xie Y, Huang J, Wu G, et al. (2023) Potential vorticity dynamics explain how extratropical oceans and the Arctic modulate wintertime land-temperature variations. Earth's Future, 11, e2022EF003275.'
+journal_link_doi: 'https://doi.org/10.1029/2022EF003275'
+---
+<!-- 在页面内容中添加链接显示 -->
+<h2>Links</h2>
+<ul>
+    <li><a href="{{ page.journal_link_doi }}">Journal Link</a></li>
+</ul>
