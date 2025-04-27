@@ -1,0 +1,19 @@
+---
+title: "Decadal heatwave fluctuations in China caused by the Indian and Atlantic Oceans"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-07-05-Lei-ERL
+excerpt: ''
+date: 2024-07-05
+venue: 'Environmental Research Letters'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://raw.githubusercontent.com/yongkunxie/yongkunxie.github.io/main/files/2024-07-05-Lei-ERL.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Lei N, Xie Y, Bao Z, et al. (2024) Decadal heatwave fluctuations in China caused by the Indian and Atlantic Oceans. Environmental Research Letters, 19, 074063.'
+journal_link_doi: 'https://doi.org/10.1088/1748-9326/ad5b05'
+---
+<!-- 在页面内容中添加链接显示 -->
+<h2>Links</h2>
+<ul>
+    <li><a href="{{ page.journal_link_doi }}">Journal Link</a></li>
+</ul>
