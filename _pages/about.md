@@ -13,7 +13,7 @@ redirect_from:
 Specializing in **climate dynamics** and **climate change**, with particular expertise in:
 
 - **Tibetan Plateau Climate Effects**  
-  Publications: [1], [2], [3]
+  Publications: (Xie et al., 2023, *Sci. Bull.*)
 - **Climate Change Patterns**  
   Publications: [1], [2], [3]
 - **Arctic Warming: Causes & Impacts**  
