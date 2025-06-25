@@ -26,6 +26,7 @@ Employment
   
 Honors
 ======
+* Top Ten S&T Advances in China's Oceanography and Limnology 2024 (2025)
 * Springer Nature Trusted Reviewer (2025)
 * IOP Trusted Reviewer (2024)
 * Outstanding Dissertation in Gansu Province (2017)
