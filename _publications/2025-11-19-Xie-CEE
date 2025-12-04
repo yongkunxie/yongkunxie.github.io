@@ -1,0 +1,19 @@
+---
+title: "Changing Northern Hemisphere weather linked to warming amplification in High Mountain Asia"
+collection: publications
+category: manuscripts
+permalink: /publication/2025-11-19-Xie-CEE
+excerpt: ''
+date: 2025-11-19
+venue: 'Communications Earth & Environment'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://raw.githubusercontent.com/yongkunxie/yongkunxie.github.io/main/files/2025-11-19-Xie-CEE.pdf'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+citation: 'Xie Y, Huang J, Wu G, et al. (2025) Changing Northern Hemisphere weather linked to warming amplification in High Mountain Asia. Communications Earth & Environment, 6, 932.'
+journal_link_doi: ' https://doi.org/10.1038/s43247-025-02883-0'
+---
+<!-- 在页面内容中添加链接显示 -->
+<h2>Links</h2>
+<ul>
+    <li><a href="{{ page.journal_link_doi }}">Journal Link</a></li>
+</ul>
