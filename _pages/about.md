@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Welcome to My Academic Website**"
+title: "**Welcome to My Academic Website**--Last updated December 5"
 author_profile: true
 redirect_from: 
   - /about/
