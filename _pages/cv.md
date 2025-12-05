@@ -27,7 +27,7 @@ Employment
 Honors
 ======
 * Top Ten S&T Advances in China's Oceanography and Limnology 2024 (2025)
-* Springer Nature Trusted Reviewer (2025)
+* Springer Nature Reviewing Editor (2025)
 * IOP Trusted Reviewer (2024)
 * Outstanding Dissertation in Gansu Province (2017)
 
@@ -55,16 +55,16 @@ Current Students Supervised
   * Jiaqin Mi (LZU, advisor)
   * Zhongrui Bao (LZU, advisor)
   * Min Zhao (LZU, advisor)
-  * Zifan Su (LZU, advisor)
-* Undergraduate student:
-  * Wenze Shi (LZU, advisor)
-  * Liangcai Xing (LZU, advisor)
 
 Past Students Supervised
 ======
 * Master's graduate:
+  * Zifan Su (LZU, graduated in 2025, Doctoral candidate in Fudan University)
   * Nan Lei (LZU, graduated in 2024, Doctoral candidate in LZU)
   * Hanbin Nie (LZU, graduated in 2024, Commercial Aircraft Corporation of China, Ltd.)
+* Undergraduate student:
+  * Wenze Shi (LZU, advisor)
+  * Liangcai Xing (LZU, advisor)
 
 Projects
 ======
@@ -77,4 +77,5 @@ Projects
 
 Service and leadership
 ======
-* Journal Reviewer for Nature Communications, Nature Water, Journal of Climate, Communications Earth & Environment, Environmental Research Letters, Journal of Geophysical Research: Atmosphere, Atmospheric Research, International Journal of Climatology, Advances in Climate Change Research, Science China Earth Sciences, Environmental Research Communications, Atmosphere, Meteorology, Discover Applied Sciences 
+* Journal Reviewer for Nature Communications, Nature Water, Journal of Climate, Communications Earth & Environment, Environmental Research Letters, Journal of Geophysical Research: Atmosphere, Atmospheric Research, International Journal of Climatology, Advances in Climate Change Research, Science China Earth Sciences, Environmental Research Communications, Atmosphere, Meteorology, Earth, Sustainability, Urban Science, International Journal of Environmental Research and Public Health, Discover Applied Sciences, Journal of Atmospheric and Solar-Terrestrial Physics, Scientific Reports, The Innovation Geoscience
+* The Innovation Geoscience Youth Editor (Intern)
