@@ -18,10 +18,13 @@ Education
 
 Employment
 ======
-* 9/2020-Present: Research Scientist
+* 3/2026-Present: Professor
   * Lanzhou University, Collaborative Innovation Center for Western Ecological Safety
-
-* 7/2017-9/2020: Postdoctoral Researcher
+    
+* 9/2020-2/2026: Research Scientist
+  * Lanzhou University, Collaborative Innovation Center for Western Ecological Safety
+    
+* 7/2017-8/2020: Postdoctoral Researcher
   * Chinese Academy of Sciences, Institute of Atmospheric Physics
   
 Honors
