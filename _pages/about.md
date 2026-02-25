@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Welcome to My Academic Website**<span style='font-size:0.5em; color:gray; font-weight:300;'>--Last updated December 5, 2025</span>"
+title: "**Welcome to My Academic Website**<span style='font-size:0.5em; color:gray; font-weight:300;'>--Last updated February 25, 2026</span>"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 Specializing in **climate dynamics** and **climate change**, with particular expertise in:
 
 - **Tibetan Plateau Climate Effects**  
-  Publications: (Xie et al., 2025, *Commun. Earth Environ.*), (Su, Xie et al., 2024, *J. Clim.*), (Xie et al., 2023, *Sci. Bull.*), (Xie et al., 2023, *Environ. Res. Lett.*), (Xie et al., 2023, *Int. J. Climatol.*)
+  Publications: (Mi, Xie et al., 2026, *J. Hydrol.*), (Xie et al., 2025, *Commun. Earth Environ.*), (Su, Xie et al., 2024, *J. Clim.*), (Xie et al., 2023, *Sci. Bull.*), (Xie et al., 2023, *Environ. Res. Lett.*), (Xie et al., 2023, *Int. J. Climatol.*)
 - **Patterns of Climate Change**  
   Publications: (Zhao, Xie et al., 2025, *Geophys. Res. Lett.*), (Xie et al., 2023, *Earth's Future*), (Xie et al., 2023, *Environ. Res. Lett.*), (Xie et al., 2022, *Clim. Dyn.*), (Xie et al., 2020, *J. Clim.*), (Xie et al., 2019, *Earth's Future*), (Huang, Xie et al., 2017, *Clim. Dyn.*), (Huang, Ji, Xie et al., 2016, *Clim. Dyn.*), (Xie et al., 2016, *Int. J. Climatol.*)
 - **Arctic Warming: Causes & Impacts**  
@@ -21,7 +21,7 @@ Specializing in **climate dynamics** and **climate change**, with particular exp
 - **Decadal Climate Variability**  
   Publications: (Lei, Xie et al., 2024, *Environ. Res. Lett.*), (Xie et al., 2023, *Earth's Future*), (Xie et al., 2022, *Clim. Dyn.*), (Xie et al., 2020, *J. Clim.*), (Huang, Xie et al., 2017, *Clim. Dyn.*), (Xie et al., 2017, *Int. J. Climatol.*), (Xie et al., 2016, *Int. J. Climatol.*)
 - **Climate Extremes**  
-  Publications: (Su, Xie et al., 2024, *J. Clim.*), (Lei, Xie et al., 2024, *Environ. Res. Lett.*), (Xie et al., 2023, *Earth's Future*), (Huang, Xie et al., 2017, *Clim. Dyn.*), (Xie et al., 2017, *Int. J. Climatol.*), (谢永坤等, 2014, 气象学报)
+  Publications: (Bao, Xie et al., 2026, *Adv. Clim. Change Res.*), (Su, Xie et al., 2024, *J. Clim.*), (Lei, Xie et al., 2024, *Environ. Res. Lett.*), (Xie et al., 2023, *Earth's Future*), (Huang, Xie et al., 2017, *Clim. Dyn.*), (Xie et al., 2017, *Int. J. Climatol.*), (谢永坤等, 2014, 气象学报)
 
 
 This site features my:  
