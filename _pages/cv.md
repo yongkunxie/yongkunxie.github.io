@@ -18,10 +18,10 @@ Education
 
 Employment
 ======
-* 3/2026-Present: Professor
+* 4/2026-Present: Professor
   * Lanzhou University, Collaborative Innovation Center for Western Ecological Safety
     
-* 9/2020-2/2026: Research Scientist
+* 9/2020-3/2026: Research Scientist
   * Lanzhou University, Collaborative Innovation Center for Western Ecological Safety
     
 * 7/2017-8/2020: Postdoctoral Researcher
