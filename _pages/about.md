@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "**Welcome to My Academic Website**<span style='font-size:0.5em; color:gray; font-weight:300;'>--Last updated March 1, 2026</span>"
+title: "**Welcome to My Academic Website**<span style='font-size:0.5em; color:gray; font-weight:300;'>--Last updated April 1, 2026</span>"
 author_profile: true
 redirect_from: 
   - /about/
