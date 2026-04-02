@@ -29,6 +29,7 @@ Employment
   
 Honors
 ======
+* Top Ten Meteorological S&T Advances of China 2025 (2026)
 * Springer Nature Reviewing Editor (2025)
 * Top Ten S&T Advances in China's Oceanography and Limnology 2024 (2025)
 * IOP Trusted Reviewer (2024)
